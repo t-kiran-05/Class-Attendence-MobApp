@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833540740670",
+    "project_id": "schoolattendence-7f452",
+    "storage_bucket": "schoolattendence-7f452.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833540740670:android:069c45a5b23b9d36f8e36f",
+        "android_client_info": {
+          "package_name": "com.example.a3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ujcmoFw4G2F49Q4-SfTgP5aCrUa66DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
